@@ -26,8 +26,9 @@ $ python3 soundcloud.py
 ```
 ## Samples
 
+![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample0.png)
 
-Samples: ![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample.png)
+![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample.png)
 
 ![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample1.png)
 
