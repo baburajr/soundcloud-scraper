@@ -4,6 +4,7 @@ soundcloud scraping with selenium and python
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Samples](#samples)
 
 ## General info
 This project is simple soundcloud scraping using python and selenium.
@@ -23,3 +24,10 @@ $ cd soundcloud-scraper
 $ pip install -r requirements.txt
 $ python3 soundcloud.py
 ```
+## Samples
+
+https://github.com/baburajr/soundcloud-scraper/blob/master/sample.png
+
+https://github.com/baburajr/soundcloud-scraper/blob/master/sample1.png
+
+https://github.com/baburajr/soundcloud-scraper/blob/master/sample2.png
