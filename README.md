@@ -27,10 +27,8 @@ $ python3 soundcloud.py
 ## Samples
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample.png)
-https://github.com/baburajr/soundcloud-scraper/blob/master/sample.png
+Samples: ![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample.png)
 
-https://github.com/baburajr/soundcloud-scraper/blob/master/sample1.png
+![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample1.png)
 
-https://github.com/baburajr/soundcloud-scraper/blob/master/sample2.png
+![Alt Text](https://github.com/baburajr/soundcloud-scraper/blob/master/sample2.png)
